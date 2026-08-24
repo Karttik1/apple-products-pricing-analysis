@@ -52,8 +52,17 @@ A 2-page interactive dashboard:
 - Price and discount show a moderate negative correlation (-0.57); rating is largely independent of price and discount
 - Amazon and Flipkart show nearly identical pricing and discount behavior for the same products
 
+## Dashboard Preview
+
+### Overview
+![Dashboard Page 1](dashboard_page1.png)
+
+### Platform & Sales Analysis
+![Dashboard Page 2](dashboard_page2.png)
+
 ## Files
 - `clean_data.py` — data cleaning script
 - `apple_pricing_cleaned.csv` — cleaned dataset
 - `apple_pricing_queries.sql` — full set of SQL analysis queries
 - Power BI `.pbix` — dashboard file
+
