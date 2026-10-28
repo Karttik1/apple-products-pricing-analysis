@@ -53,12 +53,8 @@ A 2-page interactive dashboard:
 - Amazon and Flipkart show nearly identical pricing and discount behavior for the same products
 
 ## Dashboard Preview
+<img width="1341" height="745" alt="apple_dashboard" src="https://github.com/user-attachments/assets/cfdcc6ec-0f6d-4816-b64f-955937580d15" />
 
-### Overview
-![Dashboard Page 1](dashboard_page1.png)
-
-### Platform & Sales Analysis
-![Dashboard Page 2](dashboard_page2.png)
 
 ## Files
 - `clean_data.py` — data cleaning script
